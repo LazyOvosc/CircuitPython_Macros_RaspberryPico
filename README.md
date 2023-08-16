@@ -3,8 +3,7 @@ Programmable macros on matrix keyboard using Raspberry Pico with CircuitPython
 
 ## Needed parts
 - Raspberry Pico
-- Some matrix keyboard(I used genius numpad)
-- Soldering iron
+- Some matrix keyboard(I used Genius numpad)
 ## Installing software
 - Download [CircuitPython](https://circuitpython.org/board/raspberry_pi_pico/) and install it on your Raspberry Pico controller.
 - Install [adafruit_hid library](https://circuitpython.org/libraries). Just dowload budnle and follow the instructions(needed library is in bundle)
