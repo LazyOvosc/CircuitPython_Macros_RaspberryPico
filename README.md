@@ -60,6 +60,8 @@ How to code:
 - ```*number``` after ```[]``` or ```{}``` would repeat the same action several times
 - ```->``` after ```[]``` or ```{}``` and followed by ```[]``` or ```{}``` would continue to do actions described after ```->```
 
+I added all possible scenarios in my ```macros.txt``` file so you can see how it works
+
 
 ## Contributing
 
